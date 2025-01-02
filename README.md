@@ -1,4 +1,11 @@
 ## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BCD6C&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3BCD6C&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Carlos+Henrique;Tenho+49+anos;Sou+de+João+Pessoa-PB;Eu+estudo+Desenvolvimento+de+Sistemas+na+Uniasselvi;e+na+Formação+FullStack+DevClub;Bem-vindo!)](https://git.io/typing-svg) 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fariascarlos2346&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Farias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariascarlos2346&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 <!--
 **fariascarlos2346/fariascarlos2346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
