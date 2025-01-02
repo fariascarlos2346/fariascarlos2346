@@ -39,6 +39,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosFarias}/count.svg" /></p> 
+<br></div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BCD6C&height=120&section=footer"/>
 <!--
 **fariascarlos2346/fariascarlos2346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
