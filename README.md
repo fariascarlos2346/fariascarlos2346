@@ -41,8 +41,13 @@
 
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosFarias}/count.svg" /></p> 
-<br></div>
+<p align="center">
+  <!-- primary: deno -->
+  <img src="https://profile-counter.deno.dev/CarlosFarias/count.svg?cb=20251013" alt="Visitor Count" />
+  <br><sub>👀 Visitantes do meu perfil</sub>
+</p>
+<br>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BCD6C&height=120&section=footer"/>
 <!--
 **fariascarlos2346/fariascarlos2346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
